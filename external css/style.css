@@ -1,0 +1,20 @@
+body {
+    background-color: #333; 
+    color: #f4f4f4;
+}
+
+a {
+    color: darksalmon;
+}
+
+h1 {
+    color: darkkhaki; 
+}
+
+ /* ” tabi bu external dosyayı dosyalarımıza baglamak icin
+  dosyların içine bağlantı linkleri koymamız lazım onlar da şu şekilde:
+   <head>
+        <title>All about Earth</title>
+        <link href="css/style.css" rel="stylesheet"> bu link bağlantı linki
+    </head>
+    <body>
