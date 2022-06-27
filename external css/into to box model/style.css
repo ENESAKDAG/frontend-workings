@@ -7,6 +7,10 @@ header {
     background: white;
     color: #333;
     width: 100px;
+    border: 10px solid red;
+    
+    border-bottom-color: yellow; 
+    border-left-style: dashed; 
 }
 
 main {
